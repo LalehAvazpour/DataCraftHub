@@ -3,6 +3,7 @@ Data engineering, ETL (Extract, Transform, Load) processes, and machine learning
 
 Project: Customer Churn Prediction using ANN | Deep Learning
 Uncover the power of Artificial Neural Networks (ANN) in predicting customer churn. This project not only delves into the intricacies of deep learning but also highlights the seamless integration of ETL processes. Witness the convergence of SQL, Python, and advanced machine learning to create a predictive model that can revolutionize how we understand and mitigate customer churn.
+Dataset info: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 What to Expect:
 ETL Excellence: Dive into the details of Extract, Transform, and Load processes, where raw data transforms into valuable insights.
